@@ -1,3 +1,15 @@
+Hi Team,
+Here is my Strapi task submission.
+
+PR: https://github.com/yourteam/strapi-task
+Loom: https://loom.com/share/xxxxx
+
+I have cloned Strapi core, created a blog CMS, and exposed APIs.
+
+
+
+
+
 # Strapi Blog Project
 
 ## Steps
