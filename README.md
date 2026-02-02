@@ -1,7 +1,7 @@
 Hi Team,
 Here is my Strapi task submission.
 
-PR: https://github.com/yourteam/strapi-task
+PR: https://github.com/OmkarOjha/Strapi-Project-Task1
 
 Loom: https://www.loom.com/share/815df1505ee54e718eb7ce1b99270e36
 
